@@ -1,0 +1,9 @@
+# IDE
+.vscode
+.vs
+
+# Directories
+bin/
+obj/
+TestResults/
+_drivers/
